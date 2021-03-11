@@ -7,13 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* ![Game-View-Outline](https://user-images.githubusercontent.com/67647711/110866004-1be4a880-828a-11eb-92e5-92cc773552f1.png)
+* ![MainMenu-Outline](https://user-images.githubusercontent.com/67647711/110866012-1f782f80-828a-11eb-8c79-40fbf3144326.png)
+* ![MoreMenus-Outline](https://user-images.githubusercontent.com/67647711/110866015-20a95c80-828a-11eb-8be6-43691ab8e2d7.png)
 
 ### Project Tracker
+https://github.com/BabelFishies/SilverHippogryphs/projects
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
+https://github.com/BabelFishies/SilverHippogryphs
 
-Include a link to your project on GitHub.
